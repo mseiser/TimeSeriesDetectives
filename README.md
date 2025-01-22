@@ -74,6 +74,6 @@ The evaluation features:
 - Sensitivity Analysis of KNN Parameters
 
 #### Authors
-- Maria Seiser, seiser@student.tugraz.at
-- Vinayak Lal,
-- Bolis Kamel Ragheb Hakim ,
+- Maria Seiser, seiser@student.tugraz.at    
+- Vinayak Lal, vinayak.lal@student.tugraz.at   
+- Bolis Hakim, bolis.hakim@student.tugraz.at

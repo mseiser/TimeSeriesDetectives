@@ -1,0 +1,10 @@
+numpy==1.26.4
+pandas~=2.2.3
+scikit-learn~=1.5.0
+seaborn
+torch~=2.5.1+cu118
+pyinstaller
+pate
+matplotlib~=3.8.0
+imblearn~=0.0
+tensorflow==2.10.1
